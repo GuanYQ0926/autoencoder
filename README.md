@@ -12,4 +12,5 @@ tf_autoencoder.py:
 		encoder                            decoder
 
 display.py:
-	imgs...
+	red line: input
+	green line: input->encoder->decoder->output
